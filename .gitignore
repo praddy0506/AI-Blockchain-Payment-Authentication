@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Python environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Datasets and local Fabric network
+dataset/
+fabric-samples/
+
+# Logs and backups
+*.log
+*.save
+
+# OS files
+.DS_Store
+Thumbs.db
